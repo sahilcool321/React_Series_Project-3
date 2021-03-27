@@ -1,3 +1,13 @@
+1. Show a heading that says Hello Sir, Good Morning if time is between 1 to 12 am
+2. Good afternoon,if 12pm to 7pm
+3. Good Night, if more than 7pm
+4. Apply css in it, that dynamically change the color of Greeting parts using inline css. Eg Green, Orange, black
+
+![Screenshot (2)](https://user-images.githubusercontent.com/60172772/112723673-ccfb6c00-8f35-11eb-8d22-93cf4e57dc35.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/60172772/112723898-bdc8ee00-8f36-11eb-8604-d1f64b2d0a50.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/60172772/112723903-c3263880-8f36-11eb-8e03-c8bbf2745209.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
